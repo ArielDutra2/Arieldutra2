@@ -1,48 +1,29 @@
-# 👋 Olá, eu sou Ariel Dutra
+<p align="left">
+  <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="700"/>
+</p>
 
-💻 Desenvolvedor Front-End em evolução, apaixonado por tecnologia, design moderno e criação de interfaces bonitas e funcionais.
+# Olá, eu sou [Ariel Dutra](https://github.com/ArielDutra2)! 🌲
+<h3> Desenvolvedor Front-End em evolução, apaixonado por tecnologia, design moderno e criação de interfaces bonitas e funcionais. </h3>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ariel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ariel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ariel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
-<div> 
- <a href="https://discord.com/channels/1500128166747045919/1500128167434915852" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-</div>
+## Sobre mim ⭐
+Atualmente, estou focado no aprimoramento contínuo das minhas habilidades em **desenvolvimento web**, por meio da criação de projetos práticos voltados à construção de um portfólio sólido. Tenho interesse em transformar ideias em interfaces modernas, responsivas e com identidade visual bem definida.
+
+## Stacks | OS 💼
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+## Objetivos 📍
+- Evoluir como **Desenvolvedor Front-End**.
+- Criar projetos **cada vez mais profissionais**.
+- Conseguir oportunidades na **área de tecnologia**.
+- Construir uma **carreira sólida como programador**.
+
+## Entre em contato 📫
+ Discord: **zarielz7.**
 
 
-## 🚀 Sobre mim
-
-Atualmente estou focado em aprender e evoluir minhas habilidades em desenvolvimento web, criando projetos para praticar e construir meu portfólio.
-
-Gosto de transformar ideias em páginas modernas, responsivas e com identidade visual forte.
-
-## 🛠️ Tecnologias que estudo
-
-- HTML5
-- CSS3
-- JavaScript
-- Git & GitHub
-
-## 🎯 Objetivos
-
-- Evoluir como Desenvolvedor Front-End  
-- Criar projetos cada vez mais profissionais  
-- Conseguir oportunidades na área de tecnologia  
-- Construir uma carreira sólida como programador
-
-## 📂 Projetos
-
-Em breve novos projetos no meu perfil! 🚀
-
-## 📫 Contato
-
-- discord: zarielz7
-
----
-
-⭐ Sempre aprendendo, sempre evoluindo.
+<b> 📈 Sempre aprendendo, sempre evoluindo! </b>
